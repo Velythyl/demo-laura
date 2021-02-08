@@ -1,0 +1,9 @@
+addfiles:
+    filename:
+        repeating:
+            yes
+add:
+    filename:
+remove:
+    filename:
+dosomethingcomplicated:
